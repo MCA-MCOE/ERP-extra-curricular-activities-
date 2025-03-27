@@ -1,6 +1,3 @@
-Here’s a brief description for your **ERP for Extra-Curricular Activities** project:
-
----
 
 # ERP for Extra-Curricular Activities
 
